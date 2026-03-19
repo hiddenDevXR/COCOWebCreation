@@ -4,7 +4,7 @@ import { getDatabase } from "https://www.gstatic.com/firebasejs/12.9.0/firebase-
 
 /* Configuración del proyecto Firebase */
 const firebaseConfig = {
-  apiKey: "AIzaSyDkr8gizZfUfKjiG1ti3xrOx-kKmSBUM3M",
+  apiKey: "...",
   authDomain: "test-44163.firebaseapp.com",
   databaseURL: "https://test-44163-default-rtdb.firebaseio.com",
   projectId: "test-44163",
